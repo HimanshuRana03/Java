@@ -10,7 +10,7 @@ public class oops1 {
        obj2.name="Rana";
        obj2.walk();
 */  Overloading obj1= new Overloading();
-        System.out.println("the add is "+ obj1.add(10,20));
+        System.out.println("the add is "+ obj1.add(10,20.3));
     }
 }
 //yaha pe kitni bhi classes bana sakte hai lekin public class sirf ek hi hogi jo ki main class hai
