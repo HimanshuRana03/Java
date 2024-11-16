@@ -46,7 +46,20 @@ public class exceptionhandling {
         //System.out.println(a);
         //Integer obj2=22;//autoboxing
 
+        //generics class
+        //  class abs{
+        //    // public static void main(String[] args) {
+        //        dog<String> aobj =new dog<>("hello"); 
+        //     }
+        // }
+        // class dog<E>{
+        //     E name;
+        //     void enter(E name)
+        //     {
+        //         this.name=name;
+        //     }
+        // }
 
-        
+    }  
     }
-}
+
