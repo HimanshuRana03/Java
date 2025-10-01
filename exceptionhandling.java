@@ -20,8 +20,8 @@ public class exceptionhandling {
 
         // try catch and finally   try ke saath finally bhi karsakte hai
         try{
-            int a=10/0;/// by zero exception
-            //int a=10;//no exception
+           // int a=10/0;/// by zero exception
+            int a=10;//no exception
         }
         catch(ArithmeticException e)
         {
