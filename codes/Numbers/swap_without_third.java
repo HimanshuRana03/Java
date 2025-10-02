@@ -17,5 +17,6 @@ public class swap_without_third {
         a=a^b;
         System.out.println("the value of first numbe is "+a);
         System.out.println("the value of second number is "+b);
+        sc.close();
     }
 }
